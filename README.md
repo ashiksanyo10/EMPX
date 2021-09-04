@@ -11,6 +11,15 @@ This project contains following functionalities :
 * Can notify the employee via mail about his/her report via dashboard only
 * Threshold for idle time can be changed by the admin
 
+idle time ( desktop application)
+![image](https://user-images.githubusercontent.com/66254994/132083401-4f39db0b-1ec0-462e-8571-f247f46ba3d8.png)
+
+Restricted applications
+![image](https://user-images.githubusercontent.com/66254994/132083424-2553a573-8678-4929-844d-ed6c47aaa689.png)
+
+Drowsiness Detection
+![image](https://user-images.githubusercontent.com/66254994/132083429-48a45899-bc50-4f48-8bda-720664c3564f.png)
+
 Admin Dashboard 
 ![image](https://user-images.githubusercontent.com/66254994/132083209-2e63b9f3-c2fd-4c81-9ed5-991a6d35d4b2.png)
 
@@ -26,7 +35,7 @@ mapping the new employee
 Generated report 
 ![image](https://user-images.githubusercontent.com/66254994/132083354-9332878b-b43f-4c5f-957e-fb438b716ad7.png)
 
-"NOT TO USE APPLICATIONS" OR Restricted applications
+Usage of "NOT TO USE APPLICATIONS" OR Restricted applications
 ![image](https://user-images.githubusercontent.com/66254994/132083303-de3db32b-29bd-4506-8e9d-cf6688788608.png)
 
 Admin Account recovery
