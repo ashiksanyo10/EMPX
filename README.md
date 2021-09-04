@@ -1,6 +1,7 @@
 # EMPX
 
-This is an employee monitoring  system built using image processing and ML.
+This is an employee monitoring using openCV and WMI
+domains image processing and ML.
 
 This project contains following functionalities :
 
