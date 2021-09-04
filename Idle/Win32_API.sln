@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win32_API", "Win32_API\Win32_API.csproj", "{19FF3114-84E4-4690-84D1-DC50829B875D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsApplication1", "WindowsApplication1\WindowsApplication1.csproj", "{67AF781F-A65F-4E68-BC79-09F0D649E80D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19FF3114-84E4-4690-84D1-DC50829B875D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FF3114-84E4-4690-84D1-DC50829B875D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FF3114-84E4-4690-84D1-DC50829B875D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FF3114-84E4-4690-84D1-DC50829B875D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67AF781F-A65F-4E68-BC79-09F0D649E80D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AF781F-A65F-4E68-BC79-09F0D649E80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AF781F-A65F-4E68-BC79-09F0D649E80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AF781F-A65F-4E68-BC79-09F0D649E80D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

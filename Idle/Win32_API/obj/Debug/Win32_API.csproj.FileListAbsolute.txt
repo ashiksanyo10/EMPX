@@ -1,0 +1,15 @@
+F:\2019-2020\Employ performance monitoring (empl.productiv)\Idle\Win32_API\bin\Debug\Win32_API.dll
+F:\2019-2020\Employ performance monitoring (empl.productiv)\Idle\Win32_API\bin\Debug\Win32_API.pdb
+F:\2019-2020\Employ performance monitoring (empl.productiv)\Idle\Win32_API\obj\Debug\Win32_API.dll
+F:\2019-2020\Employ performance monitoring (empl.productiv)\Idle\Win32_API\obj\Debug\Win32_API.pdb
+F:\2019-2020\Employ performance monitoring (empl.productiv)\Idle\Win32_API\obj\Debug\Win32_API.csprojResolveAssemblyReference.cache
+F:\2019-2020\Employ performance monitoring (empl.productiv)\ver01\Idle\Win32_API\bin\Debug\Win32_API.dll
+F:\2019-2020\Employ performance monitoring (empl.productiv)\ver01\Idle\Win32_API\bin\Debug\Win32_API.pdb
+F:\2019-2020\Employ performance monitoring (empl.productiv)\ver01\Idle\Win32_API\obj\Debug\Win32_API.csprojResolveAssemblyReference.cache
+F:\2019-2020\Employ performance monitoring (empl.productiv)\ver01\Idle\Win32_API\obj\Debug\Win32_API.dll
+F:\2019-2020\Employ performance monitoring (empl.productiv)\ver01\Idle\Win32_API\obj\Debug\Win32_API.pdb
+E:\EMPX\Idle\Win32_API\bin\Debug\Win32_API.dll
+E:\EMPX\Idle\Win32_API\bin\Debug\Win32_API.pdb
+E:\EMPX\Idle\Win32_API\obj\Debug\Win32_API.csprojResolveAssemblyReference.cache
+E:\EMPX\Idle\Win32_API\obj\Debug\Win32_API.dll
+E:\EMPX\Idle\Win32_API\obj\Debug\Win32_API.pdb
