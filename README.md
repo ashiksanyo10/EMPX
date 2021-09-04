@@ -18,7 +18,7 @@ Restricted applications
 ![image](https://user-images.githubusercontent.com/66254994/132083424-2553a573-8678-4929-844d-ed6c47aaa689.png)
 
 Drowsiness Detection
-![image](https://user-images.githubusercontent.com/66254994/132083429-48a45899-bc50-4f48-8bda-720664c3564f.png)
+![image](https://user-images.githubusercontent.com/66254994/132083457-bc811a40-d0eb-443c-af55-447674aeb4f5.png)
 
 Admin Dashboard 
 ![image](https://user-images.githubusercontent.com/66254994/132083209-2e63b9f3-c2fd-4c81-9ed5-991a6d35d4b2.png)
